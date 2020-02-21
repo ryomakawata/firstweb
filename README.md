@@ -15,15 +15,11 @@ activate djangoai
 
 # Usage
 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
-
 ```bash
 git clone https://github.com/ryomakawata/firstweb
 cd examples
 python manage.py runserver
 ```
 # Author
-
-作成情報を列挙する
 
 * ryoma kawata
