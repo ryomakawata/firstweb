@@ -2,7 +2,7 @@
 
 
 
-"django-sns"tutorial of simple sns app with Python
+"django-sns"is a tutorial of simple sns app with Python
 
 # DEMO
 
