@@ -1,22 +1,19 @@
 # django-sns
-
-
-
-"django-sns"is a tutorial of simple sns app with Python
+"django-sns"はPythonを用いて作った簡単なSNSアプリです。
 
 # DEMO
 
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
 
-# Features
 
-"hoge"のセールスポイントや差別化などを説明する
+# Features
+シンプルな設計で誰でも簡単に使うことができます。
 
 # Requirement
 
 "hoge"を動かすのに必要なライブラリなどを列挙する
 
-* huga 3.5.2
+* Python 3.7.6
 * hogehuga 1.0.2
 
 # Installation
