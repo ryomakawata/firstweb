@@ -29,22 +29,19 @@ pip install huga_package
 DEMOの実行方法など、"hoge"の基本的な使い方を説明する
 
 ```bash
-git clone https://github.com/hoge/~
+git clone https://github.com/ryomakawata/firstweb
 cd examples
-python demo.py
+python manage.py runserver
 ```
 
 # Note
 
-注意点などがあれば書く
 
 # Author
 
 作成情報を列挙する
 
-* 作成者
-* 所属
-* E-mail
+* ryoma kawata
 
 # License
 ライセンスを明示する
