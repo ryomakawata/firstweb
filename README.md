@@ -7,11 +7,15 @@
 # Requirement
 
 * Python 3.7.6
+* Django 3.0.3
 
 ```bash
 conda create -n djangoai pip python=3.7 Anaconda
 activate djangoai
 ```
+# Install
+
+* pip install django
 
 # Usage
 
