@@ -1,6 +1,10 @@
 # django-sns
 "django-sns"はPythonを用いて作った簡単なSNSアプリです。
 
+# DEMO
+
+編集中
+
 # Features
 シンプルな設計で誰でも簡単に使うことができます。
 
